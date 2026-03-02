@@ -1,0 +1,33 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+body {
+    background-color: #2e2e2e;
+    color: white;
+}
+h3 {
+    color: chocolate;
+}
+a {
+    text-decoration: none;
+    color:gold;
+}
+
+.judul {
+    text-align: center;
+}
+.subjudul {
+    display: flex;
+    gap: 60px;
+}
+.contoh {
+    text-align: left;
+}
+#kovalen {
+    text-align: left;
+}
+#polar {
+    text-align: left;
+}
